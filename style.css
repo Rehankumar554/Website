@@ -167,9 +167,10 @@ body {
 }
 
 .war{
-color:green;
+color:red;
 font-size:19px;
 text-aling:center;
+  font-weight:bold;
 }
 
 .stb2{
