@@ -1,6 +1,4 @@
 
-
-ChatGPT
 Welcome to Tech Bhandar, your ultimate destination for all things computer knowledge!
 
 At Tech Bhandar, we are passionate about empowering individuals with the knowledge and skills they need to navigate the ever-evolving world of technology. Whether you're a seasoned computer enthusiast or just starting your digital journey, our website is designed to be your go-to resource for all your computer-related queries.
