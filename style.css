@@ -166,6 +166,15 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 
+.warning{
+display:flex;
+}
+
+.material-icons{
+  font-size:19px;
+  color:red;
+  }
+
 .war{
 color:red;
 font-size:19px;
