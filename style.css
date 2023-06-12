@@ -171,6 +171,7 @@ display:flex;
 }
 
 .material-icons{
+  padding-right:10px;
   font-size:19px;
   color:red;
   }
