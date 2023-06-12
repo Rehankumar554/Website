@@ -167,6 +167,7 @@ body {
 }
 
 .warning{
+  margin:auto;
 display:flex;
   text-aling:center;
 }
