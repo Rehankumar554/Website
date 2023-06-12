@@ -166,6 +166,12 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 
+.war{
+color:red;
+font-size:19px;
+text-aling:center;
+}
+
 .stb2{
   text-align: left;
   padding-bottom: 10px;
