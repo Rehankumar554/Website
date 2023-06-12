@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     var typed = new Typed(".auto_input", {
-      strings: ["www.technicalyogi.in"],
+      strings: ["www.techbhandar.in"],
       typeSpeed: 30,
       backSpeed: 30,
       loop: false
