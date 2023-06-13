@@ -20,6 +20,10 @@ body {
   cursor: pointer;
 }
 
+#nav{
+  display: none;
+}
+
 .logo {
   width: 20%;
   display: flex;
@@ -167,21 +171,15 @@ body {
 }
 
 .warning{
-  margin:auto;
-display:flex;
-  text-aling:center;
+  display: flex;
+  text-align: center;
+  font-size: 19px;
+  color: red;
+  margin: 10px;
 }
 
 .material-icons{
-  padding-right:10px;
-  font-size:19px;
-  color:red;
-  }
-
-.war{
-color:red;
-font-size:19px;
-  font-weight:bold;
+  padding-right: 10px;
 }
 
 .stb2{
