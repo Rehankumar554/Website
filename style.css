@@ -20,10 +20,6 @@ body {
   cursor: pointer;
 }
 
-#nav{
-  display: none;
-}
-
 .logo {
   width: 20%;
   display: flex;
