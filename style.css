@@ -52,6 +52,7 @@ body {
 }
 
 .nav-list li a {
+  font-family: 'Ubuntu', sans-serif;
   color: #fff;
   text-decoration: none;
   font-size: 20px;
@@ -314,6 +315,7 @@ font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
   color: #fff;
   text-decoration: none;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .con2 {
@@ -341,6 +343,7 @@ font-family: 'Ubuntu', sans-serif;
   color: #fff;
   font-size: 20px;
   text-decoration: none;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .h4 {
@@ -348,12 +351,14 @@ font-family: 'Ubuntu', sans-serif;
   font-size: 18px;
   font-weight: 700;
   margin-top: 28px;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .h5 {
   color: #fff;
   font-size: 18px;
   font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
   margin-top: 10px;
 }
 
@@ -381,6 +386,7 @@ font-family: 'Ubuntu', sans-serif;
   padding: 10px;
   text-decoration: none;
   font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .in {
@@ -404,6 +410,7 @@ font-family: 'Ubuntu', sans-serif;
   padding: 10px;
   text-decoration: none;
   font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .yt {
@@ -426,6 +433,7 @@ font-family: 'Ubuntu', sans-serif;
   padding: 10px;
   text-decoration: none;
   font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .tw {
@@ -448,6 +456,7 @@ font-family: 'Ubuntu', sans-serif;
   padding: 10px;
   text-decoration: none;
   font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .te {
@@ -470,11 +479,12 @@ font-family: 'Ubuntu', sans-serif;
   padding: 10px;
   text-decoration: none;
   font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .text-footer {
   text-align: center;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+font-family: 'Ubuntu', sans-serif;
   display: flex;
   justify-content: center;
   padding: 22px;
