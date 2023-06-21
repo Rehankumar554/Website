@@ -169,7 +169,6 @@ body {
 
 .warning{
   display: flex;
-  text-align: center;
   font-size: 19px;
   color: red;
   margin: 10px;
